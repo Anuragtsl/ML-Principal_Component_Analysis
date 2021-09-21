@@ -39,15 +39,15 @@ Total: 89.8%
 
 * **Second Dimension:** From the above plot it is noticed that the weight is large and negative for thalach and slightly negative for cp,chol and slope, which means that patients who score high in this component will have very less chances of heart disease. Whereas age and trestbps are moderatively positive.
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Principal_Component_Analysis/blob/main/Principal%20Component%20Analysis.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Principal_Component_Analysis/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Principal_Component_Analysis/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Principal_Component_Analysis/blob/main/Images/3.png)
 
 
 #Njoy!

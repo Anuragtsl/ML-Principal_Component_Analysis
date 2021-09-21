@@ -4,9 +4,9 @@ I have applied Principal Component Analysis on Heart Disease Dataset.
 
 In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), and [Sklearn]() for Analysis and Dimension Reduction of Data.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Principal_Component_Analysis/blob/main/heart.csv)!**
 
 # About Dataset
 
